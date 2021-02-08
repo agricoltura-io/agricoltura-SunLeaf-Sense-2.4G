@@ -1,0 +1,52 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 5
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Sheet
+S 2900 2000 2150 1600
+U 6028AFD2
+F0 "STM32 MCU" 50
+F1 "STM32_MCU.sch" 50
+F2 "UART_SENSE1_TX" I L 2900 2350 50 
+F3 "I2C_SENSE1_SDA" I L 2900 2600 50 
+F4 "I2C_SENSE1_SCL" I L 2900 2750 50 
+F5 "I2C_MUX1_RESET" I L 2900 2900 50 
+F6 "USW1_EN" I L 2900 3100 50 
+F7 "USW1_S0" I L 2900 3250 50 
+F8 "USW1_S1" I L 2900 3350 50 
+F9 "RF_SHDN" I L 2900 2150 50 
+$EndSheet
+$Sheet
+S 5750 2000 2050 1600
+U 6028B0AC
+F0 "ESP32-S2 WiFi/BLE Chipset CoProcessor" 50
+F1 "ESP32_S2_RF_WiFi_Radio.sch" 50
+$EndSheet
+$Sheet
+S 2900 4350 2150 1350
+U 6028B309
+F0 "Power Supply and Switching" 50
+F1 "Power.sch" 50
+F2 "BAT_VOLT_SENSE" I L 2900 4900 50 
+F3 "USB_VBUS" I L 2900 5100 50 
+F4 "BAT_SDA" I L 2900 5250 50 
+F5 "BAT_SCL" I L 2900 5350 50 
+$EndSheet
+$Sheet
+S 5650 4350 2150 1350
+U 6028B457
+F0 "Grow Environment Sensor Suite" 50
+F1 "Sensor_Suite.sch" 50
+$EndSheet
+$EndSCHEMATC
