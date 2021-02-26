@@ -1,4 +1,4 @@
-1253874189063365
+1278386461950422
 AVR-KiCAD-Lib-Battery-Holders
 BK-912
 
@@ -539,6 +539,20 @@ HRS_U.FL-R-SMT
 3
 2
 AVR-KiCAD-Lib-Connectors
+JAE_DX07S016JA1R1500
+
+
+0
+18
+18
+AVR-KiCAD-Lib-Connectors
+JST_PH_S2B-PH-SM4-TB_02x2.00mm_Angled
+JST PH series connector, S2B-PH-SM4-TB, side entry type, surface mount, Datasheet: http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
+connector jst ph
+0
+4
+2
+AVR-KiCAD-Lib-Connectors
 KEYSTONE_5016
 
 
@@ -749,6 +763,20 @@ connector jst ph
 8
 6
 AVR-KiCAD-Lib-Connectors
+SAMTEC-TSW-112-07-X-S
+translated Allegro footprint
+
+0
+12
+12
+AVR-KiCAD-Lib-Connectors
+SAMTEC-TSW-116-07-X-S
+translated Allegro footprint
+
+0
+16
+16
+AVR-KiCAD-Lib-Connectors
 SSW-104-02-F-D-RA_2x04_Pitch2.54mm
 Through hole angled pin header, 2x04, 2.54mm pitch, 6mm pin length, double rows
 Through hole angled pin header THT 2x04 2.54mm double row
@@ -841,6 +869,13 @@ B240A-13-F
 2
 AVR-KiCAD-Lib-Diodes
 BAT20JFILM
+
+
+0
+2
+2
+AVR-KiCAD-Lib-Diodes
+BPW20RF
 
 
 0
@@ -952,6 +987,13 @@ TVS0500DRVR
 9
 7
 AVR-KiCAD-Lib-Holes_Fasteners
+2.54mm_PLT_Hole
+
+
+0
+1
+1
+AVR-KiCAD-Lib-Holes_Fasteners
 M2_HOLE
 
 
@@ -1022,6 +1064,13 @@ AMM-2742-T-R
 4
 4
 AVR-KiCAD-Lib-ICs
+AS7341-DLGT
+
+
+0
+8
+8
+AVR-KiCAD-Lib-ICs
 AT25SF081
 
 
@@ -1063,6 +1112,13 @@ DIP8
 0
 8
 8
+AVR-KiCAD-Lib-ICs
+HDC1080DMBR
+
+
+0
+7
+7
 AVR-KiCAD-Lib-ICs
 LD1117S50TR
 module CMS SOT223 4 pins
@@ -1113,12 +1169,26 @@ MAX14830ETM&plus_
 49
 49
 AVR-KiCAD-Lib-ICs
+MCP1700T-3302E&slash_MB
+
+
+0
+5
+3
+AVR-KiCAD-Lib-ICs
 MCP23017T-E
 
 
 0
 29
 29
+AVR-KiCAD-Lib-ICs
+MCP73831T-2ACI-MC
+
+
+0
+9
+9
 AVR-KiCAD-Lib-ICs
 MT41K64M16TW_107_J_TR
 
@@ -1204,6 +1274,13 @@ SN74HC244PWR
 20
 20
 AVR-KiCAD-Lib-ICs
+SN74LV4051ARGYR
+
+
+0
+23
+18
+AVR-KiCAD-Lib-ICs
 SN74LVC541APWR
 
 
@@ -1273,6 +1350,13 @@ SOT-353 SC-70-5
 0
 5
 5
+AVR-KiCAD-Lib-ICs
+SOT50P160X60-6N
+
+
+0
+6
+6
 AVR-KiCAD-Lib-ICs
 SOT_89
 SOT89-3_Housing
@@ -1350,6 +1434,20 @@ TLV70220PDBVR
 0
 5
 5
+AVR-KiCAD-Lib-ICs
+TLV75533PDBVR
+
+
+0
+5
+5
+AVR-KiCAD-Lib-ICs
+TPIS1T1086L5.5
+
+
+0
+6
+6
 AVR-KiCAD-Lib-ICs
 TPS54060DRCR
 
@@ -1575,6 +1673,13 @@ MGM210P022JIA2R
 31
 31
 AVR-KiCAD-Lib-Modules
+MODULE_SCD30
+
+
+0
+7
+7
+AVR-KiCAD-Lib-Modules
 Pololu_D36V28F3
 
 
@@ -1593,8 +1698,8 @@ STM32WB5MMGH6TR
 
 
 0
-24
-24
+86
+86
 AVR-KiCAD-Lib-Modules
 XCVR_SPSGRF-915
 
