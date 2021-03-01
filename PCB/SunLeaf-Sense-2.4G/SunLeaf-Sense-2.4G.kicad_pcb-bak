@@ -1369,7 +1369,7 @@
   )
 
   (module AVR-KiCAD-Lib-ICs:TPIS1T1086L5.5 (layer F.Cu) (tedit 60387BF8) (tstamp 603AFC5E)
-    (at 156.5 92.5 180)
+    (at 156.25 93.25 180)
     (path /6028B457/603E671A)
     (fp_text reference U6 (at 8.5 -1) (layer F.SilkS)
       (effects (font (size 0.7 0.7) (thickness 0.12)))
@@ -1473,7 +1473,7 @@
   )
 
   (module AVR-KiCAD-Lib-ICs:AS7341-DLGT (layer F.Cu) (tedit 60386A6B) (tstamp 603AE2A4)
-    (at 153.75 106.25 270)
+    (at 153.75 105.75 270)
     (path /6028B457/603BEEB8)
     (fp_text reference U5 (at -0.5 2.5 90) (layer F.SilkS)
       (effects (font (size 0.7 0.7) (thickness 0.12)))
@@ -2015,7 +2015,7 @@
   )
 
   (module AVR-KiCAD-Lib-Resistors:R0402 (layer F.Cu) (tedit 582AA938) (tstamp 603AE133)
-    (at 154.15 108.75 90)
+    (at 154.15 108.25 90)
     (path /6028B457/604C640D)
     (fp_text reference R18 (at 0 -1.15 90) (layer F.SilkS)
       (effects (font (size 0.7 0.7) (thickness 0.12)))
@@ -2047,7 +2047,7 @@
   )
 
   (module AVR-KiCAD-Lib-Resistors:R0402 (layer F.Cu) (tedit 582AA938) (tstamp 603AE121)
-    (at 154.25 99.25)
+    (at 154 100)
     (path /6028B457/60405523)
     (fp_text reference R17 (at -2 0) (layer F.SilkS)
       (effects (font (size 0.7 0.7) (thickness 0.12)))
@@ -2111,7 +2111,7 @@
   )
 
   (module AVR-KiCAD-Lib-Resistors:R0402 (layer F.Cu) (tedit 582AA938) (tstamp 603AE0FD)
-    (at 159.5 95.25 90)
+    (at 159.25 96 90)
     (path /6028B457/60434574)
     (fp_text reference R15 (at 0 1 90) (layer F.SilkS)
       (effects (font (size 0.7 0.7) (thickness 0.12)))
@@ -2175,7 +2175,7 @@
   )
 
   (module AVR-KiCAD-Lib-Resistors:R0402 (layer F.Cu) (tedit 582AA938) (tstamp 603AE0D9)
-    (at 159.5 92 270)
+    (at 159.25 92.75 270)
     (path /6028B457/604328D9)
     (fp_text reference R13 (at 0 -1 90) (layer F.SilkS)
       (effects (font (size 0.7 0.7) (thickness 0.12)))
@@ -2271,7 +2271,7 @@
   )
 
   (module AVR-KiCAD-Lib-Resistors:R0402 (layer F.Cu) (tedit 582AA938) (tstamp 603AE0A3)
-    (at 156.25 105 270)
+    (at 156.25 104.5 270)
     (path /6028B457/604255F0)
     (fp_text reference R10 (at 0 -1 90) (layer F.SilkS)
       (effects (font (size 0.7 0.7) (thickness 0.12)))
@@ -2303,7 +2303,7 @@
   )
 
   (module AVR-KiCAD-Lib-Resistors:R0402 (layer F.Cu) (tedit 582AA938) (tstamp 603AE091)
-    (at 156.25 107.5 90)
+    (at 156.25 107 90)
     (path /6028B457/60421DE3)
     (fp_text reference R9 (at 0 1 90) (layer F.SilkS)
       (effects (font (size 0.7 0.7) (thickness 0.12)))
@@ -3204,7 +3204,7 @@
   )
 
   (module AVR-KiCAD-Lib-Resistors:R0402 (layer F.Cu) (tedit 582AA938) (tstamp 603ADE86)
-    (at 153.983 88 180)
+    (at 153.733 88.75 180)
     (path /6028B457/603C4EDE)
     (fp_text reference C6 (at -2.017 0) (layer F.SilkS)
       (effects (font (size 0.7 0.7) (thickness 0.12)))
@@ -3268,7 +3268,7 @@
   )
 
   (module AVR-KiCAD-Lib-Resistors:R0402 (layer F.Cu) (tedit 582AA938) (tstamp 603ADE62)
-    (at 154.95 103.5 270)
+    (at 154.95 103 270)
     (path /6028B457/603B8895)
     (fp_text reference C4 (at 0 1.2 90) (layer F.SilkS)
       (effects (font (size 0.7 0.7) (thickness 0.12)))
@@ -3526,7 +3526,7 @@
   (module AVR-KiCAD-Lib-Capacitors:C0805 (layer F.Cu) (tedit 57D73A5A) (tstamp 603B2E3D)
     (at 120 117 90)
     (path /6028B309/5F1389C3)
-    (fp_text reference C1 (at -2.25 0 180) (layer F.SilkS)
+    (fp_text reference C1 (at -1.25 1.5 90) (layer F.SilkS)
       (effects (font (size 0.7 0.7) (thickness 0.12)))
     )
     (fp_text value C0805C104M5RACTU (at 0 -1.905 90) (layer F.Fab) hide
@@ -3623,7 +3623,7 @@
   (gr_line (start 145 110.75) (end 145 114.25) (layer Edge.Cuts) (width 0.05) (tstamp 603C9219))
   (gr_line (start 135 110.75) (end 135 114.25) (layer Edge.Cuts) (width 0.05) (tstamp 603C91AF))
   (gr_line (start 137.5 114.25) (end 137.5 110.75) (layer Edge.Cuts) (width 0.05))
-  (gr_circle (center 153.75 106.25) (end 148.842589 106.25) (layer F.SilkS) (width 0.12))
+  (gr_circle (center 153.75 105.75) (end 148.842589 105.75) (layer F.SilkS) (width 0.12))
   (gr_arc (start 195 84.968074) (end 200 84.968074) (angle -90) (layer Edge.Cuts) (width 0.2))
   (gr_line (start 200 114.968074) (end 200 84.968074) (layer Edge.Cuts) (width 0.2))
   (gr_arc (start 195 114.968074) (end 195 119.968074) (angle -90) (layer Edge.Cuts) (width 0.2))
@@ -4868,23 +4868,6 @@
         (xy 116.373 118.123) (xy 112.888741 118.123) (xy 112.865238 118.110437) (xy 112.767203 118.080698) (xy 112.66525 118.070657)
         (xy 112.33475 118.070657) (xy 112.232797 118.080698) (xy 112.134762 118.110437) (xy 112.127 118.114586) (xy 112.127 114.877)
         (xy 116.373 114.877)
-      )
-    )
-  )
-  (zone (net 2) (net_name GND) (layer F.Cu) (tstamp 0) (hatch edge 0.508)
-    (connect_pads thru_hole_only (clearance 0.254))
-    (min_thickness 0.254)
-    (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.62))
-    (polygon
-      (pts
-        (xy 123.5 119.5) (xy 117 119.5) (xy 117 117.25) (xy 123.5 117.25)
-      )
-    )
-    (filled_polygon
-      (pts
-        (xy 123.373 119.373) (xy 117.127 119.373) (xy 117.127 117.958703) (xy 117.240028 117.883223) (xy 118.60223 117.883223)
-        (xy 118.676919 117.875867) (xy 118.748738 117.854081) (xy 118.814926 117.818702) (xy 118.872941 117.771091) (xy 118.920552 117.713076)
-        (xy 118.955931 117.646888) (xy 118.977717 117.575069) (xy 118.985073 117.50038) (xy 118.985073 117.377) (xy 123.373 117.377)
       )
     )
   )
