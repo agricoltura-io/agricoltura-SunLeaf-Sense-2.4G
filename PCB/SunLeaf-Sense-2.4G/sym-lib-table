@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SunLeaf-Sense-2.4G-rescue")(type "KiCad")(uri "${KIPRJMOD}/SunLeaf-Sense-2.4G-rescue.kicad_sym")(options "")(descr ""))
+)

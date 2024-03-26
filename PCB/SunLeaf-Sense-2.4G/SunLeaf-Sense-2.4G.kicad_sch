@@ -1,0 +1,675 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "9cf62fc9-bc0c-4cc5-b5f2-4c645c24c92a")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 111.76 66.04) (xy 120.65 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c3afd7e-40dd-4ddf-b8e5-0ac8235c99bf")
+	)
+	(wire
+		(pts
+			(xy 177.8 41.91) (xy 185.42 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "658a0941-5ad5-4ca5-844c-3c702ea26184")
+	)
+	(wire
+		(pts
+			(xy 177.8 86.36) (xy 185.42 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66b19e09-7aa0-4cea-b194-39a92bb7f51b")
+	)
+	(wire
+		(pts
+			(xy 177.8 99.06) (xy 185.42 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6712cfc5-d991-47ea-b2d8-ec148388060f")
+	)
+	(wire
+		(pts
+			(xy 177.8 93.98) (xy 185.42 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e5e9219-a87d-492e-9898-8b3dc5f7df34")
+	)
+	(wire
+		(pts
+			(xy 177.8 58.42) (xy 185.42 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "723e6913-b2af-415a-9c03-ce99206d29b0")
+	)
+	(wire
+		(pts
+			(xy 120.65 58.42) (xy 111.76 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "820876f1-43f1-492e-a528-1fc8733ae678")
+	)
+	(wire
+		(pts
+			(xy 177.8 53.34) (xy 185.42 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85d64568-6f5a-42a6-8774-1d193d982d1b")
+	)
+	(wire
+		(pts
+			(xy 185.42 50.8) (xy 177.8 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9bd52714-658d-4e7d-9ece-59640c287554")
+	)
+	(wire
+		(pts
+			(xy 185.42 96.52) (xy 177.8 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ce5c37a-6aaa-4e9a-a192-af827ee2b344")
+	)
+	(wire
+		(pts
+			(xy 111.76 55.88) (xy 120.65 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a13a5998-54bb-448a-b2f8-ee7806c410d7")
+	)
+	(wire
+		(pts
+			(xy 177.8 44.45) (xy 185.42 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6ac7145-3d59-4caa-b844-65eb5f0d28b2")
+	)
+	(wire
+		(pts
+			(xy 177.8 88.9) (xy 185.42 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a70cb43b-6db7-465c-8573-cf32296f1a3d")
+	)
+	(wire
+		(pts
+			(xy 177.8 39.37) (xy 185.42 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb0c354f-7460-42c2-ab56-b5d714bd27f3")
+	)
+	(wire
+		(pts
+			(xy 185.42 91.44) (xy 177.8 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd878a96-8a61-420d-bd08-7ede57b37fd1")
+	)
+	(wire
+		(pts
+			(xy 111.76 69.85) (xy 120.65 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec36868d-6884-4494-92f8-8130438efa12")
+	)
+	(wire
+		(pts
+			(xy 185.42 55.88) (xy 177.8 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f02eddeb-8744-49c7-a47a-40b5f74a9085")
+	)
+	(sheet
+		(at 57.15 36.83)
+		(size 54.61 93.98)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-00006028b309")
+		(property "Sheetname" "Power Supply and Switching"
+			(at 57.15 36.1184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 57.15 131.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BAT_VOLT_SENSE" input
+			(at 111.76 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b7d4870d-b139-4ade-95f7-144e40fcf13d")
+		)
+		(pin "USB_VBUS" input
+			(at 111.76 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "c4e17e90-3819-45c8-82cf-6f3aef3f1b27")
+		)
+		(pin "BAT_SDA" input
+			(at 111.76 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "12be2c83-cd47-49ac-93b5-67440283dea6")
+		)
+		(pin "BAT_SCL" input
+			(at 111.76 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "1b92672d-b83a-4eac-b686-f7f2f49d83e8")
+		)
+		(instances
+			(project "SunLeaf-Sense-2.4G"
+				(path "/9cf62fc9-bc0c-4cc5-b5f2-4c645c24c92a"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 185.42 36.83)
+		(size 54.61 93.98)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-00006028b457")
+		(property "Sheetname" "Grow Environment Sensor Suite"
+			(at 185.42 36.1184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sensor_Suite.kicad_sch"
+			(at 185.42 131.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CO2_RDY" input
+			(at 185.42 39.37 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "6432dde7-ebb9-4930-9266-72a0cdf5b86e")
+		)
+		(pin "CO2_PWM" input
+			(at 185.42 41.91 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "6a968b4c-ae9f-4445-af96-3e33873b2f3f")
+		)
+		(pin "CO2_SEL" input
+			(at 185.42 44.45 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "97659241-a7cb-4948-bfbb-fd67afda4170")
+		)
+		(pin "OIR_INT" input
+			(at 185.42 50.8 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "5695f38d-d8ff-4461-851b-d847e95a2be5")
+		)
+		(pin "LSS_LDR" input
+			(at 185.42 53.34 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "e2427542-106c-4005-bcd3-112dc210496a")
+		)
+		(pin "LSS_INT" input
+			(at 185.42 55.88 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "0f7fe30a-e485-4ff0-aeee-e0bd7cbd7315")
+		)
+		(pin "I2C_HUB_SDA" input
+			(at 185.42 86.36 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "9d4459d7-d4d0-41cc-8182-d67906bcb134")
+		)
+		(pin "I2C_HUB_SCL" input
+			(at 185.42 88.9 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "093684cf-af93-4cc8-bcdb-ff66273c1bb6")
+		)
+		(pin "I2C_HUB_RESET" input
+			(at 185.42 91.44 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "fb77003c-ae5e-4f40-a80c-be3fb87d74cb")
+		)
+		(pin "I2C_HUB_A0" input
+			(at 185.42 93.98 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "e663384f-6868-476c-9769-bf4be9861880")
+		)
+		(pin "I2C_HUB_A1" input
+			(at 185.42 96.52 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "82d27e1d-1c17-42b4-8aa8-b26669895daf")
+		)
+		(pin "I2C_HUB_A2" input
+			(at 185.42 99.06 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "1b35ba71-9896-4d77-83d8-679d0204a5b9")
+		)
+		(pin "LSS_GPIO" input
+			(at 185.42 58.42 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "8ee6b0b5-d5d5-4143-b2e9-5cea07f99d96")
+		)
+		(instances
+			(project "SunLeaf-Sense-2.4G"
+				(path "/9cf62fc9-bc0c-4cc5-b5f2-4c645c24c92a"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 120.65 36.83)
+		(size 57.15 66.04)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-000060383d67")
+		(property "Sheetname" "STM32 2.4G RF Module"
+			(at 120.65 36.1184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ST_MCU_RF_Module.kicad_sch"
+			(at 120.65 103.4546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB_VBUS" input
+			(at 120.65 66.04 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "aafa8f34-6ca1-4ffa-9e0e-f166e8fd9912")
+		)
+		(pin "BAT_VOLT_SENSE" input
+			(at 120.65 69.85 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "f70643fd-90f8-4779-8b09-8712d73d8fe8")
+		)
+		(pin "BAT_SDA" input
+			(at 120.65 55.88 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "97c12f31-3a41-43b2-bd23-237e317479c1")
+		)
+		(pin "BAT_SCL" input
+			(at 120.65 58.42 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "9db7761d-720d-4619-988b-e0a3f7dca5e0")
+		)
+		(pin "I2C_HUB_SDA" input
+			(at 177.8 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "5dee9aa1-a884-4b99-8881-3700994dcf7a")
+		)
+		(pin "I2C_HUB_SCL" input
+			(at 177.8 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "58fb7fac-35fe-4f82-be33-8d2cf9dd35aa")
+		)
+		(pin "I2C_HUB_RESET" input
+			(at 177.8 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "81b01c39-5a78-44ce-b32c-43f529a51bdb")
+		)
+		(pin "I2C_HUB_A0" input
+			(at 177.8 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a2bcf7bd-797e-468a-92cb-eb7691283faa")
+		)
+		(pin "I2C_HUB_A1" input
+			(at 177.8 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "e88c546d-c736-4f4f-be8a-e8ba323f729d")
+		)
+		(pin "I2C_HUB_A2" input
+			(at 177.8 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d65e2d10-528a-4433-a5ac-5f3b744e8958")
+		)
+		(pin "CO2_RDY" input
+			(at 177.8 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "aa2b3d88-c82a-4cdf-ae77-ef12448ad294")
+		)
+		(pin "CO2_PWM" input
+			(at 177.8 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "eed7ce4b-12a6-45f4-b2ea-b4c9ad8ffd06")
+		)
+		(pin "CO2_SEL" input
+			(at 177.8 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "436c3e2b-4c14-4f5f-b8dc-04ed8bd13f04")
+		)
+		(pin "LSS_LDR" input
+			(at 177.8 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "54202fc6-13cc-4733-b136-5579bd595bc6")
+		)
+		(pin "LSS_INT" input
+			(at 177.8 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3d406198-5fdd-413d-98e4-5def83306deb")
+		)
+		(pin "OIR_INT" input
+			(at 177.8 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "184f5262-7182-41bd-93ae-0dd9700aaa6f")
+		)
+		(pin "LSS_GPIO" input
+			(at 177.8 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b9a35b4b-6b8c-4cb1-ad44-c74b9626cd97")
+		)
+		(instances
+			(project "SunLeaf-Sense-2.4G"
+				(path "/9cf62fc9-bc0c-4cc5-b5f2-4c645c24c92a"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 120.65 111.76)
+		(size 55.88 30.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-000060568996")
+		(property "Sheetname" "PAR Sensor"
+			(at 120.65 111.0484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PAR_Sensor.kicad_sch"
+			(at 120.65 142.8246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SunLeaf-Sense-2.4G"
+				(path "/9cf62fc9-bc0c-4cc5-b5f2-4c645c24c92a"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
